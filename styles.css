@@ -1,1 +1,52 @@
 /* your code here */
+.content{
+	height: 200px;
+	width: 600px;
+	background-color: black;
+	color: white;
+}
+.logo_name{
+	margin-right: 400px;
+	margin-left: 20px;
+}
+.top{
+	display: flex;
+}
+.media-icons{
+	display: flex;
+	display: flex;	
+    justify-content: space-evenly;
+	margin-left: 5px
+}
+.link-boxes{
+	display: flex;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    margin: 20px;
+	margin-left: 3px;
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+.bottom-details{
+	background-color: #222f3d;
+	color: white;
+	display: flex;
+	width: 600px;
+	height: 40px;
+	font-size: 0.85rem;
+	align-items: center;
+}
+.copyright{
+	margin-left: 25px
+}
+.policy{
+	margin-left: 320px
+}
