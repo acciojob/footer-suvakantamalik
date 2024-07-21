@@ -14,10 +14,12 @@
 }
 .media-icons{
 	display: flex;
-	display: flex;	
     justify-content: space-evenly;
-	margin-left: 5px
+	margin-left: 5px;
 }
+/* .media-icons a{
+	length
+} */
 .link-boxes{
 	display: flex;
     color: white;
